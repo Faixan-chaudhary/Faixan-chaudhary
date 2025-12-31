@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-● &nbsp; I’m Faizan Khalid, a Senior Software Developer focused on **high-quality, scalable** web apps, **mainly using React.js**, Next.js, and Node.js.<br><br>
+● &nbsp; I’m Faizan Khalid, a Senior Software Developer focused on **high-quality, scalable** web apps, **mainly using React.js, Next.js, and Node.js.**<br><br>
 ● &nbsp; I love crafting smooth and engaging frontend experiences with React.js, Tailwind CSS, MUI, Ant Design, Bootstrap, and managing state & data using Redux, TanStack Query, and GraphQL.<br><br>
 ● &nbsp; I also handle backend development when needed, creating APIs and services with Node.js and Python (Flask, Django).<br><br>
 ● &nbsp; I’m experienced in deploying and managing applications on Vercel, AWS, Azure, Railway, and Linux servers, making sure everything runs reliably and efficiently in production.
