@@ -4,6 +4,7 @@
 ● &nbsp; I love crafting smooth and engaging frontend experiences with React.js, Tailwind CSS, MUI, Ant Design, Bootstrap, and managing state & data using Redux, TanStack Query, and GraphQL.<br><br>
 ● &nbsp; I also handle backend development when needed, creating APIs and services with Node.js and Python (Flask, Django).<br><br>
 ● &nbsp; I’m experienced in deploying and managing applications on Vercel, AWS, Azure, Railway, and Linux servers, making sure everything runs reliably and efficiently in production.
+● &nbsp; **My most complex and large-scale projects are private. If you would like to review them, feel free to contact me.**
 
 
 # 💻 Tech Stack:
